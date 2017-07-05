@@ -4,3 +4,4 @@
 ## Post 1
 ![Images Preview](https://raw.githubusercontent.com/Dobby233Liu/dobby233liu.github.io/master/imghook/blog/blog1.png)
 ![Images Preview](https://raw.githubusercontent.com/Dobby233Liu/dobby233liu.github.io/master/imghook/blog/yeahblog1.jpg)
+![Images Preview](https://raw.githubusercontent.com/Dobby233Liu/dobby233liu.github.io/master/imghook/blog/scammerblog1.jpg)
