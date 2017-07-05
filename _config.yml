@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+# config.yml automatically generated
+title: Minimal theme
+description:  is a theme for GitHub Pages.
+show_downloads: truetheme: jekyll-theme-minimal
