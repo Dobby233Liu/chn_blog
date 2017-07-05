@@ -3,4 +3,4 @@
 [这是神经病还是英渣???（纯图片）](#post-1)
 ## Post 1
 ![Images Preview](https://raw.githubusercontent.com/Dobby233Liu/dobby233liu.github.io/master/imghook/blog/blog1.png)
-![Images Preview](https://raw.githubusercontent.com/Dobby233Liu/dobby233liu.github.io/master/imghook/blog/blog1.jpg)
+![Images Preview](https://raw.githubusercontent.com/Dobby233Liu/dobby233liu.github.io/master/imghook/blog/yeahblog1.jpg)
