@@ -1,4 +1,5 @@
-# config.yml automatically generated
+# _config.yml automatically generated
+# EDIT: It's not auto.
 title: 窝的博客
 description: 如题所示
 theme: jekyll-theme-minimal
